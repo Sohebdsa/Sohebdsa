@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an saas inventory system for a client <br>🌱 I’m currently learning React , node js ,docker<br>💬 Ask me about hackathon project <br>⚡ Fun fact i have participated in 4 hackathon 
+🔭 I’m currently working on an saas inventory system for a client <br>🌱 I’m currently learning System Design,kafka,Redis also a little bit of devops<br>💬 Ask me about hackathon project <br>⚡ Fun fact i have participated in 4 hackathon 
 
 
 # 💻 Tech Stack:
