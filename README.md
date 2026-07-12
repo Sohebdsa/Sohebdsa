@@ -1,5 +1,5 @@
 # 💫 About ME:
-🔭 I’m currently working on an Quant funding Arb System <br>🌱 I’m currently learning System Design,kafka,Redis also a little bit of devops<br>💬 Ask me about QUANT project <br>⚡ Fun fact i have participated in 4 hackathons
+🔭 I’m currently working on an Quant funding Arb System <br>🌱 I’m currently learning System Design,kafka,Redis also a little bit of devops<br>💬 Ask me about QUANT project <br>⚡ Fun fact i have participated in 4 hackathons.
 
 
 # 💻 Tech Stack:
